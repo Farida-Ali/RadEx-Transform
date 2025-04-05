@@ -9,3 +9,25 @@ RadEx is a Python package implementing an adaptive, nonlinear Radon transform de
 ## Installation
 ```bash
 pip install radex
+
+
+##Quick Example
+from radex.radex_transform import generate_radex_image
+radex_img = generate_radex_image('your_image.png')
+radex_img.show()
+
+Requirements
+numpy
+
+Pillow
+
+matplotlib
+
+pandas
+
+Citation
+Please cite our work if you find this package helpful.
+
+License
+MIT
+
