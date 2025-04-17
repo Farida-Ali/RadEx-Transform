@@ -2,7 +2,8 @@ from radex.radex import generate_radex_image
 import matplotlib.pyplot as plt
 
 # Provide the path to your image clearly
-image_path = 'test1.png'  
+image_path = 'examples/test.png'
+
 
 # Generate RadEx transformed image
 radex_img = generate_radex_image(image_path)
