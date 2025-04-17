@@ -11,4 +11,5 @@ radex_img = generate_radex_image(image_path)
 plt.imshow(radex_img, cmap='gray')
 plt.title("RadEx Transformed Image")
 plt.axis('off')
+plt.savefig('radex_example_output.png')  # save image
 plt.show()
