@@ -46,14 +46,12 @@ plt.show()
 
 ## Citation
 If you use RadEx in your work, please cite:
-Farida Mohsen, et al., 
+A Islam, F Mohsen, et al., 
 "Introducing Radex: Adaptive Parameterized Feature Extraction from Medical Images", 
-CGI, 2024.
+Computer Graphics International (CGI), 2024.
+
 
 ## License
 This project is licensed under the MIT License.
 
-
-License
-MIT
 
