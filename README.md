@@ -11,9 +11,6 @@ git clone https://github.com/your-username/RadEx-Transform.git
 cd RadEx-Transform
 pip install .
 
-
-
-
 ## Requirements
 Python 3.8+
 numpy
