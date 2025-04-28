@@ -1,10 +1,7 @@
-# RadEx-Transform
-Nonlinear Radon-based Transform
-
-# RadEx Transform: Adaptive Nonlinear Radon-based Feature Extraction
+# 🧠 RadEx Transform: Nonlinear Radon-based Transformation
 
 ## Overview
-RadEx is a Python package implementing an adaptive, nonlinear Radon transform designed for advanced feature extraction in medical imaging applications, including chest X-ray and retinal image analysis.
+RadEx is a Python package implementing an adaptive, nonlinear Radon transform designed for advanced feature extraction from medical imaging applications, such as chest X-ray and retinal image analysis.
 
 ## Installation
 Clone the repository and install the package locally:
@@ -15,19 +12,15 @@ cd RadEx-Transform
 pip install .
 
 
+
+
 ## Requirements
 Python 3.8+
-
 numpy
-
 Pillow
-
 matplotlib
-
 pandas
 
-To install dependencies manually:
-pip install -r requirements.txt
 
 ## Usage Example
 from radex.radex import generate_radex_image
@@ -44,14 +37,7 @@ plt.axis('off')
 plt.show()
 
 
-## Citation
-If you use RadEx in your work, please cite:
-A Islam, F Mohsen, et al., 
-"Introducing Radex: Adaptive Parameterized Feature Extraction from Medical Images", 
-Computer Graphics International (CGI), 2024.
-
-
 ## License
-This project is licensed under the MIT License.
+MIT License.
 
 
