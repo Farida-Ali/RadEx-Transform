@@ -7,7 +7,7 @@ RadEx is a Python package implementing an adaptive, nonlinear Radon transform de
 Clone the repository and install the package locally:
 
 ```bash
-git clone https://github.com/your-username/RadEx-Transform.git
+git clone https://github.com/Farida-Ali/RadEx-Transform.git
 cd RadEx-Transform
 pip install .
 
